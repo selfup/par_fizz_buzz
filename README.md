@@ -1,4 +1,4 @@
-# Parallel Fizz Buzz
+# Parallel FizzBuzz
 
 Why not?
 
